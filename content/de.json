@@ -1,0 +1,641 @@
+{
+  "locale": "de",
+  "meta": {
+    "siteName": "Specialist Heat Exchangers",
+    "ogImageAlt": "Startseite von Specialist Heat Exchangers — Wärmeübertrager, ausgelegt und gefertigt in Lincoln"
+  },
+  "company": {
+    "legalName": "Specialist Heat Exchangers Ltd",
+    "divisionLine": "Tube Fins Ltd (Sparte)",
+    "phone": "+44 (0)1522 881100",
+    "phoneHref": "tel:+441522881100",
+    "email": "info@she-uk.com",
+    "addressLines": ["Freeman Road, North Hykeham", "Lincoln LN6 9AP, Vereinigtes Königreich"],
+    "addressInline": "Freeman Road, North Hykeham, Lincoln LN6 9AP, Vereinigtes Königreich",
+    "gettingHere": "Nahe der historischen Stadt Lincoln, gut erreichbar mit Bahn und Straße.",
+    "linkedinName": "Specialist Heat Exchangers Ltd",
+    "linkedinNote": "[[CLIENT TO CONFIRM]] Profil-URL",
+    "companyNumber": "[[CLIENT TO CONFIRM]]",
+    "vat": "[[CLIENT TO CONFIRM]]",
+    "mapsQuery": "Freeman Road, North Hykeham, Lincoln LN6 9AP, United Kingdom",
+    "mapsLabel": "Karteneinbettung (Google Maps: Freeman Road, North Hykeham, LN6 9AP)"
+  },
+  "nav": [
+    { "label": "Produkte", "href": "/products/" },
+    { "label": "Aftermarket", "href": "/aftermarket/" },
+    { "label": "Rippenrohr", "href": "/fin-tube/" },
+    { "label": "Service", "href": "/refurbishment/" },
+    { "label": "Unternehmen", "href": "/company/" },
+    { "label": "Kontakt", "href": "/contact/" }
+  ],
+  "footerNav": [
+    [
+      { "label": "Produkte", "href": "/products/" },
+      { "label": "Aftermarket", "href": "/aftermarket/" },
+      { "label": "Rippenrohr", "href": "/fin-tube/" },
+      { "label": "Fahrzeugtechnik", "href": "/automotive/" }
+    ],
+    [
+      { "label": "Service", "href": "/refurbishment/" },
+      { "label": "Fertigung", "href": "/manufacturing/" },
+      { "label": "Unternehmen", "href": "/company/" },
+      { "label": "Fachbeiträge", "href": "/whitepapers/" }
+    ]
+  ],
+  "footerLabels": {
+    "company": "Unternehmen",
+    "headOffice": "Hauptsitz",
+    "enquiries": "Anfragen",
+    "pages": "Seiten"
+  },
+  "legal": {
+    "companyNo": "Firmennr.",
+    "vat": "USt-IdNr.",
+    "privacy": "Datenschutz",
+    "cookies": "Cookie-Einstellungen",
+    "rev": "Rev. A"
+  },
+  "cta": {
+    "title": "Sie haben eine Spezifikation? Sprechen Sie mit unserem Engineering-Team.",
+    "button": "Kontakt",
+    "href": "/contact/"
+  },
+  "ui": {
+    "requestQuote": "Angebot anfordern",
+    "menu": "Menü",
+    "close": "Schließen",
+    "language": "Sprache",
+    "english": "English",
+    "german": "Deutsch",
+    "viewProducts": "Produkte ansehen",
+    "findOutMore": "Mehr erfahren",
+    "home": "Start",
+    "sendEnquiry": "Anfrage senden",
+    "enquirySent": "Anfrage gesendet",
+    "enquiryThanks": "Vielen Dank. Ihre Anfrage hat unser Team in Lincoln erreicht. Wir melden uns so bald wie möglich.",
+    "mailtoNotice": "Das Formular ist noch nicht mit unserem Postfach verbunden. Beim Senden öffnet sich eine E-Mail an info@she-uk.com. Eine Zeichnung legen Sie bitte separat bei — ein E-Mail-Entwurf kann die Datei nicht anhängen.",
+    "mailtoOpened": "E-Mail-Entwurf geöffnet",
+    "mailtoBody": "Wenn sich kein E-Mail-Programm geöffnet hat, schreiben Sie an info@she-uk.com und fügen Sie die Angaben unten ein.",
+    "formError": "Das Formular konnte nicht gesendet werden. Bitte schreiben Sie an info@she-uk.com.",
+    "sending": "Wird gesendet…",
+    "fileLabel": "Zeichnung oder Datenblatt (optionaler Upload)",
+    "chooseFile": "Datei auswählen",
+    "noFile": "Keine Datei ausgewählt",
+    "cookieTitle": "Cookie-Einstellungen",
+    "cookieBody": "Notwendige Cookies werden nicht gesetzt. Analyse-Cookies bleiben aus, bis Sie sie akzeptieren. Auf dieser Website ist noch kein Analyse-Skript eingebunden. Ihre Auswahl wird nur in diesem Browser gespeichert.",
+    "cookieAccept": "Analyse akzeptieren",
+    "cookieReject": "Analyse ablehnen",
+    "cookieOn": "Analyse-Cookies: akzeptiert",
+    "cookieOff": "Analyse-Cookies: aus",
+    "backToHome": "Zur Startseite",
+    "redirectServicing": "Service finden Sie auf unserer Seite zur Instandsetzung.",
+    "continue": "Weiter",
+    "openInMaps": "In Maps öffnen",
+    "pending": "[[CLIENT TO CONFIRM]]",
+    "read": "Lesen",
+    "downloadCertificates": "Zertifikate herunterladen",
+    "readPolicy": "Richtlinie lesen",
+    "seeManufacturing": "Fertigung ansehen",
+    "seeRefurbishment": "Instandsetzung ansehen",
+    "requestSpares": "Ersatzteile für Ihren SHE-Kühler anfragen"
+  },
+  "form": {
+    "title": "Angebot anfordern",
+    "name": "Name",
+    "company": "Unternehmen",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "application": "Anwendung (z. B. luftgekühlt, Rohrbündel, Instandsetzung)",
+    "requirement": "Ihre Anforderung",
+    "subject": "Anfrage über die SHE-Website"
+  },
+  "cookies": {
+    "headOffice": "Hauptsitz",
+    "telephone": "Telefon",
+    "email": "E-Mail",
+    "gettingHere": "Anfahrt",
+    "linkedin": "LinkedIn"
+  },
+  "downloads": [
+    {
+      "slug": "certificates",
+      "title": "Zertifikate",
+      "summary": "ISO 9001, ISO 14001 und ASME-U-Stempel.",
+      "body": "Die Zertifikat-PDFs liegen noch nicht vor. [[CLIENT TO CONFIRM]]"
+    },
+    {
+      "slug": "ethical-procurement",
+      "title": "Richtlinie zur ethischen Beschaffung",
+      "summary": "Globale Verantwortung: Leitprinzipien in der Praxis.",
+      "body": "Das PDF der Richtlinie zur ethischen Beschaffung liegt noch nicht vor. [[CLIENT TO CONFIRM]]"
+    },
+    {
+      "slug": "sustainability",
+      "title": "Nachhaltigkeitsrichtlinie",
+      "summary": "Umweltverantwortung: unseren Planeten erhalten.",
+      "body": "Das PDF der Nachhaltigkeitsrichtlinie liegt noch nicht vor. [[CLIENT TO CONFIRM]]"
+    },
+    {
+      "slug": "wp-01",
+      "title": "Einführung in luftgekühlte Wärmeübertrager",
+      "summary": "Auslegung, Betrieb und Instandhaltung von Luftkühlern.",
+      "body": "Fachbeitrag WP.01 liegt noch nicht vor. [[CLIENT TO CONFIRM]]"
+    },
+    {
+      "slug": "wp-02",
+      "title": "Einführung in Berippung und Rohreinsätze",
+      "summary": "Wie Berippung und Einsätze die Wärmeübertragung verbessern.",
+      "body": "Fachbeitrag WP.02 liegt noch nicht vor. [[CLIENT TO CONFIRM]]"
+    }
+  ],
+  "pages": {
+    "home": {
+      "meta": {
+        "title": "Specialist Heat Exchangers",
+        "description": "Maßgefertigte, kompakte und effiziente Kühleinrichtungen für industrielle und petrochemische Anwendungen, ausgelegt mit HTRI Xchanger Suite und SolidWorks und im eigenen Werk in Lincoln, UK, gefertigt."
+      },
+      "eyebrow": "Spezialisten für Wärmeübertrager seit 1968 · Lincoln, UK",
+      "title": "Wärmeübertrager nach Maß, ausgelegt und gefertigt",
+      "lede": "Maßgeschneiderte, kompakte und effiziente Kühleinrichtungen für industrielle und petrochemische Anwendungen, ausgelegt mit HTRI Xchanger Suite und SolidWorks und im eigenen Werk gefertigt.",
+      "heroAlt": "Luftgekühlter Wärmeübertrager, ausgelegt und gebaut nach API 661",
+      "heroCaption": "Abb. 1: Luftgekühlter Wärmeübertrager, ausgelegt und gebaut nach API 661 · REF 00.1",
+      "callouts": [
+        { "kicker": "Auslegungsnorm", "value": "API 661", "place": "code" },
+        { "kicker": "Motoren", "value": "ATEX für explosionsgefährdete Bereiche", "place": "motors" },
+        { "kicker": "Rohrbündel", "value": "Vertikal oder horizontal", "place": "blocks" }
+      ],
+      "specs": [
+        { "value": "API 661 / 660", "label": "Auslegungsnormen" },
+        { "value": "ASME U", "label": "Stempel vorhanden" },
+        { "value": "400 bar(g)", "label": "Rohrbündel, max." },
+        { "value": "ISO 9001 · 14001", "label": "Zertifiziert" }
+      ],
+      "trustLabel": "Zertifizierungen",
+      "trust": ["ISO 9001", "ISO 14001", "ASME-U-Stempel", "PED Kat. I–IV", "ATEX"],
+      "companyKicker": "01 / Unternehmen",
+      "companyTitle": "Auslegung und Bau von Wärmeübertragern seit 1968",
+      "companyDeck": "Die gesamte Ausrüstung wird im eigenen Werk in Lincoln gefertigt, einschließlich der Rippenrohre unserer Sparte Tube Fins Ltd.",
+      "figures": [
+        { "value": "1968", "label": "Gründungsjahr" },
+        { "value": "400 bar(g)", "label": "Auslegungsdruck Rohrbündel" },
+        { "value": "Eigenfertigung", "label": "Rippenrohre von Tube Fins Ltd" },
+        { "value": "Lincoln, UK", "label": "Überwachtes Werk" }
+      ],
+      "productsKicker": "02 / Produkte",
+      "productsTitle": "Wärmeübertrager",
+      "productsDeck": "Ein breites Programm an Wärmeübertragern. Sprechen Sie uns auf Sonderlösungen an.",
+      "cards": [
+        {
+          "title": "Luftgekühlte Wärmeübertrager",
+          "image": "/images/hero-air-cooled.webp",
+          "alt": "Luftgekühlter Wärmeübertrager",
+          "href": "/products/#p01",
+          "bullets": ["Ausführung nach API 661", "Vertikale oder horizontale Rohrbündel", "ATEX-Motoren für explosionsgefährdete Bereiche", "Winterfeste Ausführungen"]
+        },
+        {
+          "title": "Rohrbündel-Wärmeübertrager",
+          "image": "/images/shell-and-tube.webp",
+          "alt": "Rohrbündel-Wärmeübertrager",
+          "href": "/products/#p02",
+          "bullets": ["Auslegung nach API 660", "Bis 400 bar(g)", "ASME-U-Stempel / PED Kat. I–IV", "Druckgeprüft"]
+        },
+        {
+          "title": "Industriekühlung",
+          "image": "/images/industrial-cooling.webp",
+          "alt": "Industrielle Kühleinrichtung",
+          "href": "/products/#p03",
+          "bullets": ["Schwere Betriebsbedingungen", "PED / ATEX / ASME VIII auf Anforderung", "Breite Werkstoffauswahl", "Vollständig geprüft vor dem Versand"]
+        },
+        {
+          "title": "Kühler für die Fahrzeugtechnik",
+          "image": "/images/automotive-coolers.webp",
+          "alt": "Drahtberippte Fahrzeugkühler",
+          "href": "/automotive/",
+          "bullets": ["Drahtberipptes Aluminium", "Kundenspezifische Biegungen und Enden", "Aluminium, beschichteter Kohlenstoffstahl oder nichtrostender Stahl"]
+        }
+      ],
+      "sectorsKicker": "Branchen",
+      "sectorsTitle": "Ausgelegt für Industrien, die nicht stillstehen dürfen",
+      "sectorsDeck": "Von Raffinerie-Luftkühlern bis zu Ölkühlern in der Fahrzeugtechnik läuft SHE-Ausrüstung in einigen der anspruchsvollsten Prozessumgebungen im Vereinigten Königreich und international. [[CLIENT TO CONFIRM]] Branchenliste.",
+      "sectors": [
+        { "code": "S.01", "title": "Petrochemie", "body": "Luftgekühlte Wärmeübertrager nach API 661 für Raffinerien und Prozessanlagen." },
+        { "code": "S.02", "title": "Öl und Gas", "body": "Rohrbündelapparate nach API 660, bei Bedarf ATEX-gerecht." },
+        { "code": "S.03", "title": "Energieerzeugung", "body": "Kühlung für Turbinen, Schmieröl und Hilfssysteme." },
+        { "code": "S.04", "title": "Fahrzeugtechnik", "body": "Drahtberippte Aluminiumkühler mit kundenspezifischen Biegungen und Enden." },
+        { "code": "S.05", "title": "Industrie", "body": "Schwere Kühlaufgaben für Stahl, Chemie und Fertigungsstandorte." }
+      ],
+      "capKicker": "03 / Leistungen",
+      "capTitle": "Von der thermischen Auslegung bis zur Instandsetzung",
+      "capabilities": [
+        { "code": "001", "title": "Mechanische Auslegung", "body": "Leistungsfähige Berechnungswerkzeuge auf dem Stand der Technik, einschließlich mechanischer Nachweise mit PV Elite." },
+        { "code": "002", "title": "Auslegungssimulation", "body": "HTRI Xchanger Suite und SolidWorks, damit die Auslegung die Anforderungen erfüllt oder übertrifft." },
+        { "code": "003", "title": "Fertigung", "body": "CNC-Bearbeitung im eigenen Haus: zwei 3-Achs-Fräsmaschinen und ein CNC-Drehzentrum mit angetriebenen Werkzeugen." },
+        { "code": "004", "title": "Instandsetzung", "body": "Geräte kommen während der Abstellung in unser Werk in Lincoln — zur Schadens-, Ursachen- und Qualitätsbewertung." }
+      ],
+      "qualityKicker": "04 / Qualität",
+      "qualityTitle": "Nachweise und Zertifizierungen",
+      "qualityDeck": "Qualitätsmanagement nach ISO 9001, Umweltmanagement nach ISO 14001 und der ASME-U-Stempel für Auslegung und Fertigung von Druckgeräten.",
+      "qualityLinks": [
+        { "label": "Zertifikate herunterladen", "href": "/downloads/certificates/" },
+        { "label": "Richtlinie zur ethischen Beschaffung", "href": "/downloads/ethical-procurement/" },
+        { "label": "Nachhaltigkeitsrichtlinie", "href": "/downloads/sustainability/" }
+      ]
+    },
+    "products": {
+      "meta": {
+        "title": "Wärmeübertrager",
+        "description": "Ein breites Programm an Wärmeübertragern, nach Kundenspezifikation ausgelegt und im eigenen Werk in Lincoln gefertigt."
+      },
+      "crumb": "Produkte",
+      "title": "Wärmeübertrager",
+      "lede": "Ein breites Programm an Wärmeübertragern, nach Kundenspezifikation ausgelegt und im eigenen Werk in Lincoln gefertigt. Sprechen Sie uns auf Sonderlösungen an.",
+      "items": [
+        {
+          "id": "p01",
+          "code": "P.01",
+          "index": "Luftgekühlt",
+          "title": "Luftgekühlte Wärmeübertrager",
+          "deck": "Vollständig kundenspezifische Luftkühler nach Ihrer Spezifikation.",
+          "image": "/images/hero-air-cooled.webp",
+          "alt": "Luftgekühlte Wärmeübertrager",
+          "caption": "Abb. 1: Luftgekühlte Wärmeübertrager · REF P.01",
+          "chips": ["API 661", "ATEX"],
+          "bullets": ["Ausführung nach API 661", "Vertikale oder horizontale Rohrbündel", "Direkt- oder Riemenantrieb", "ATEX-Motoren für explosionsgefährdete Bereiche", "Klappen für Lüfterredundanz", "Hauben- oder Stopfenböden", "Paralleler oder serieller Prozessstrom je nach Druckverlust", "Winterfeste Ausführungen"],
+          "quote": "Angebot für dieses Produkt anfordern",
+          "application": "Luftgekühlte Wärmeübertrager",
+          "extra": null
+        },
+        {
+          "id": "p02",
+          "code": "P.02",
+          "index": "Rohrbündel",
+          "title": "Rohrbündel-Wärmeübertrager",
+          "deck": "Rohrbündelapparate für den Hochdruckeinsatz.",
+          "image": "/images/shell-and-tube.webp",
+          "alt": "Rohrbündel-Wärmeübertrager",
+          "caption": "Abb. 2: Rohrbündel-Wärmeübertrager · REF P.02",
+          "chips": ["API 660", "400 bar(g)", "ASME U"],
+          "bullets": ["Auslegung nach API 660", "Hochdruckanwendungen bis 400 bar(g)", "ASME-U-Stempel / PED Kat. I–IV", "Mechanische Berechnung mit PV Elite", "Druckgeprüft", "CS, SS und Kupfer; beschichtet für aggressive Umgebungen"],
+          "quote": "Angebot für dieses Produkt anfordern",
+          "application": "Rohrbündel-Wärmeübertrager",
+          "extra": null
+        },
+        {
+          "id": "p03",
+          "code": "P.03",
+          "index": "Industriekühlung",
+          "title": "Industriekühlung",
+          "deck": "Ausgelegt und gebaut für schwere Betriebsbedingungen.",
+          "image": "/images/industrial-cooling.webp",
+          "alt": "Industrielle Kühleinrichtung",
+          "caption": "Abb. 3: Industriekühlung · REF P.03",
+          "chips": ["PED", "ATEX", "ASME VIII"],
+          "bullets": ["Ausgelegt und gebaut für schwere Betriebsbedingungen", "PED / ATEX / ASME VIII, wenn gefordert", "Breite Auswahl an Konstruktionswerkstoffen", "Vollständig geprüft vor dem Versand", "Ausgelegt auf vorgegebene Baugröße und Masse", "Gleichwertiger Ersatz kann geliefert werden", "Kühler für Hydrauliköl, Wasser, Dampfkondensation und Verdichter"],
+          "quote": "Angebot für dieses Produkt anfordern",
+          "application": "Industriekühlung",
+          "extra": null
+        },
+        {
+          "id": "p04",
+          "code": "P.04",
+          "index": "Lagerkühler",
+          "title": "Lagerkühler",
+          "deck": "Auslegungsservice für einen Kühler passend zu Ihrer Wärmeleistung und Einbausituation, in CS, SS, Duplex-SS, Kupfer, CuNi, Messing oder Aluminium. Glattes Einsatzrohr, gedrilltes oder gewendeltes Rippenrohr oder mehrere Rohrschlangen.",
+          "image": "/images/bearing-coolers.webp",
+          "alt": "Lagerkühler",
+          "caption": "Abb. 4: Lagerkühler · REF P.04",
+          "chips": ["Sonderbau"],
+          "bullets": ["Getriebekühler", "Abgas-Wärmerückgewinnung", "Kühler für Hydraulikleitungen", "Lufterhitzer", "Überall, wo Fluid oder Luft gekühlt oder erwärmt werden muss"],
+          "quote": "Angebot für dieses Produkt anfordern",
+          "application": "Lagerkühler",
+          "extra": null
+        },
+        {
+          "id": "p05",
+          "code": "P.05",
+          "index": "Turbomaschinenkühlung",
+          "title": "Kühlung für Turbomaschinen",
+          "deck": "Projektspezifische Auslegungen für Gasturbinen-, Pumpen- und Verdichterpakete.",
+          "image": "/images/turbo-machinery.webp",
+          "alt": "Kühlung für Turbomaschinen",
+          "caption": "Abb. 5: Kühlung für Turbomaschinen · REF P.05",
+          "chips": ["Gasturbine", "Verdichter"],
+          "bullets": ["Gasturbinen: Schmieröl, Syntheseöl, Sperr- und Spülluft, Ansaugluftkühler", "Pumpen: Schmieröl, Arbeitsöl und Kühlung der Gleitringdichtungssperrflüssigkeit", "Verdichter: Schmieröl, Mantelwasser, Zwischen- und Nachkühler", "Kreisläufe können kombiniert werden, um die Aufstellfläche zu verringern", "Werkstoffe passend zu Medium und Klima", "Redundanz auf Anforderung", "Geräuscharme Lösungen verfügbar", "Pumpenkühler und Ölkühler"],
+          "quote": "Angebot für dieses Produkt anfordern",
+          "application": "Kühlung für Turbomaschinen",
+          "extra": null
+        },
+        {
+          "id": "p06",
+          "code": "P.06",
+          "index": "Dichtungskühler",
+          "title": "Dichtungskühler",
+          "deck": "Sonderkonstruktionen nach den thermischen und mechanischen Vorgaben des Kunden.",
+          "image": "/images/seal-coolers.webp",
+          "alt": "Dichtungskühler",
+          "caption": "Abb. 6: Dichtungskühler · REF P.06",
+          "chips": ["Sonderbau"],
+          "bullets": ["Sonderkonstruktionen nach den thermischen und mechanischen Vorgaben des Kunden", "Naturkonvektion (Glattrohr oder Schlange) und Gebläseausführung", "Druckteile aus nichtrostendem Stahl 316/L, Duplex und Superduplex", "Äußere Vergrößerungsflächen: Aluminiumband, Drahtschlaufe aus nichtrostendem Stahl, Duplex oder Superduplex", "Direkt angetriebene Elektromotoren (ABB, Siemens, WEG, CEMP) nach IEC Ex und NEMA", "Eigene Zerspanung, geprüfte Schweißung, RT, UT, MPI und DP mit PMI, Beschichtung, Druckprüfung und Spülen", "ASME VIII mit U-Stempel, CE-/UKCA-Kennzeichnung, auf Anforderung Zulassungen wie CRN (Kanada) und DOSH (Malaysia)"],
+          "quote": "Angebot für dieses Produkt anfordern",
+          "application": "Dichtungskühler",
+          "extra": null
+        },
+        {
+          "id": "p07",
+          "code": "P.07",
+          "index": "Fahrzeugkühler",
+          "title": "Kühler für die Fahrzeugtechnik",
+          "deck": "Drahtberippte Aluminiumkühler in kundenspezifischer Form.",
+          "image": "/images/automotive-coolers.webp",
+          "alt": "Fahrzeugkühler",
+          "caption": "Abb. 7: Fahrzeugkühler · REF P.07",
+          "chips": ["Aluminium"],
+          "bullets": ["Hocheffiziente Drahtberippung (Aluminium oder Kupfer)", "Berippung direkt auf dem Rohr, dadurch Teil der Fluidleitung", "Keine Zwischenverbindungen erforderlich", "Hält hohen Drücken stand (begrenzt durch das Grundrohr)", "Aluminium, beschichteter Kohlenstoffstahl und nichtrostender Stahl", "Gerade oder gebogen, endenumgeformt oder als Glattrohr"],
+          "quote": "Angebot für dieses Produkt anfordern",
+          "application": "Fahrzeugkühler",
+          "extra": { "label": "Fahrzeugrohre ansehen", "href": "/automotive/" }
+        },
+        {
+          "id": "p08",
+          "code": "P.08",
+          "index": "Fertigung",
+          "title": "Fertigungsleistungen",
+          "deck": "Fertigung und Druckgerätebau in unserem Werk in Lincoln.",
+          "image": "/images/fabrication.webp",
+          "alt": "Fertigung im Werk Lincoln",
+          "caption": "Abb. 8: Fertigungsleistungen · REF P.08",
+          "chips": ["ASME IX", "NACE"],
+          "bullets": ["Plasmaschneidanlage mit großem Tisch", "CNC-Fräsen und Drehzentrum", "Hartlöten und Silberlöten", "WIG-, E-Hand-, Fülldraht- und MIG/MAG-Schweißen", "Geprüfte Schweißer nach ASME IX", "Beschichtung nach NACE", "Druckbehälter nach ASME / API"],
+          "quote": "Angebot für Fertigung anfordern",
+          "application": "Fertigung",
+          "extra": null
+        },
+        {
+          "id": "p09",
+          "code": "P.09",
+          "index": "Ersatzteile",
+          "title": "Ersatzteile",
+          "deck": "Vollständige SHE-Bestandskühler aus über 50 Jahren sowie Ersatzteile.",
+          "image": "/images/spares.webp",
+          "alt": "Ersatzteile für SHE-Kühler",
+          "caption": "Abb. 9: Ersatzteile · REF P.09",
+          "chips": ["Bestand", "OEM-Teile"],
+          "bullets": ["Ersatz-Rohrbündel für SHE-Luftkühler", "Ersatz-Rohrbündel, Hauben und Mantelbaugruppen für SHE-Rohrbündelkühler", "Vollständige Lüfter- und Motorbaugruppen, Motoren, Laufräder, Lager und Antriebsriemen", "Boden-Dichtungen, Bodenstopfen und Scheiben", "Dichtungen und Dichtsätze für Rohrbündelkühler"],
+          "quote": null,
+          "application": "",
+          "extra": { "label": "Aftermarket und Ersatzteile ansehen", "href": "/aftermarket/" }
+        }
+      ],
+      "mfgKicker": "08 / Fertigung",
+      "mfgTitle": "Ausgelegt und gefertigt im eigenen Werk in Lincoln",
+      "mfgPhotos": [
+        { "image": "/images/manufacturing-cnc.webp", "alt": "CNC-Drehzentrum mit angetriebenen Werkzeugen", "caption": "Abb. 8: CNC-Drehzentrum mit angetriebenen Werkzeugen · REF 08.1", "href": "/manufacturing/" },
+        { "image": "/images/manufacturing-fabrication.webp", "alt": "Fertigung in der Werkshalle", "caption": "Abb. 9: Fertigung in der Werkshalle · REF 08.2", "href": "/manufacturing/" },
+        { "image": "/images/refurbishment-after.webp", "alt": "Instandgesetztes Rohrbündel", "caption": "Abb. 10: Instandgesetztes Rohrbündel, bereit zur Rücklieferung · REF 08.3", "href": "/refurbishment/" }
+      ]
+    },
+    "aftermarket": {
+      "meta": {
+        "title": "Aftermarket und Ersatzteile",
+        "description": "Vollständige SHE-Bestandskühler aus über 50 Jahren sowie Ersatzteile für SHE-Luft- und Rohrbündelkühler."
+      },
+      "crumb": "Aftermarket",
+      "title": "Aftermarket und Ersatzteile",
+      "lede": "Vollständige SHE-Bestandskühler aus über 50 Jahren sowie Ersatzteile für SHE-Luft- und Rohrbündelkühler.",
+      "sparesKicker": "01 / Ersatzteile",
+      "sparesTitle": "Ersatzteile für SHE-Kühler",
+      "sparesImage": "/images/spares.webp",
+      "sparesAlt": "Dichtungen, Flansche und Stopfen für SHE-Kühler",
+      "spares": [
+        "Vollständige SHE-Bestandskühler aus über 50 Jahren",
+        "Ersatz-Rohrbündel für SHE-Luftkühler",
+        "Ersatz-Rohrbündel, Hauben und Mantelbaugruppen für SHE-Rohrbündelkühler",
+        "Vollständige Lüfter- und Motorbaugruppen, Motoren, Laufräder, Lager und Antriebsriemen",
+        "Boden-Dichtungen, Bodenstopfen und Scheiben",
+        "Dichtungen und Dichtsätze für Rohrbündelkühler"
+      ],
+      "serviceKicker": "02 / Service",
+      "serviceTitle": "Ältere Anlagen weiterbetreiben",
+      "serviceItems": [
+        { "code": "S.01", "title": "Vor-Ort-Prüfung", "body": "Vor einer Abstellung können wir vor Ort prüfen, beraten und den geeigneten Instandsetzungsweg bestätigen." },
+        { "code": "S.02", "title": "Instandsetzung", "body": "Die Ausrüstung kommt in unser Werk in Lincoln zur Schadens-, Ursachen- und Qualitätsbewertung, mit einem festen Endangebot." },
+        { "code": "S.03", "title": "Ersatzgeräte", "body": "Ist eine Reparatur nicht mehr sinnvoll, empfiehlt SHE ein neues Gerät mit verkürzter Lieferzeit passend zur Abstellung." }
+      ]
+    },
+    "finTube": {
+      "meta": {
+        "title": "Rippenrohr",
+        "description": "Innere und äußere Vergrößerungsflächen, im eigenen Haus gefertigt von Tube Fins Ltd, einer Sparte der Specialist Heat Exchangers Ltd."
+      },
+      "crumb": "Rippenrohr",
+      "title": "Wärmeübertragung: innere und äußere Vergrößerungsflächen",
+      "lede": "Alle SHE-Rippenrohre werden im eigenen Haus von Tube Fins Ltd gefertigt, einer Sparte der Specialist Heat Exchangers Ltd.",
+      "kicker": "01 / Rohrspektrum",
+      "heading": "Außenrippen und Inneneinsätze",
+      "deck": "Ein Programm leistungsfähiger innerer und äußerer Oberflächen, die kombiniert eine hohe Kühlleistung ergeben.",
+      "tubes": [
+        { "code": "T.01", "title": "G-Rippenrohr", "image": "/images/g-finned-tube.webp", "alt": "G-Rippenrohr", "body": "Hochleitfähiges Rippenrohr für erhöhte Temperaturen. In die Rohroberfläche wird eine Wendelrille eingeformt; das beidseitig aufgeworfene Metall wird in die Rippe zurückgeprägt und hält sie formschlüssig. Das ergibt einen hohen Wärmeübergang und eine sichere mechanische Bindung." },
+        { "code": "T.02", "title": "L-Rippenrohr", "image": "/images/l-finned-tube.webp", "alt": "L-Rippenrohr", "body": "[[CLIENT TO CONFIRM]] Beschreibung (auf der aktuellen Website nicht veröffentlicht)" },
+        { "code": "T.03", "title": "LL-Rippenrohr", "image": "/images/ll-finned-tube.webp", "alt": "LL-Rippenrohr", "body": "[[CLIENT TO CONFIRM]] Beschreibung (auf der aktuellen Website nicht veröffentlicht)" },
+        { "code": "T.04", "title": "KL-Rippenrohr", "image": "/images/kl-finned-tube.webp", "alt": "KL-Rippenrohr", "body": "[[CLIENT TO CONFIRM]] Beschreibung (auf der aktuellen Website nicht veröffentlicht)" },
+        { "code": "T.05", "title": "Drahtberipptes Rohr", "image": "/images/wire-wound-tube.webp", "alt": "Drahtberipptes Rohr", "body": "[[CLIENT TO CONFIRM]] Beschreibung (auf der aktuellen Website nicht veröffentlicht)" },
+        { "code": "T.06", "title": "Crinkle-Rippe", "image": "/images/crinkle-fin-tube.webp", "alt": "Crinkle-Rippenrohr", "body": "[[CLIENT TO CONFIRM]] Beschreibung (auf der aktuellen Website nicht veröffentlicht)" },
+        { "code": "T.07", "title": "Turbulenzeinsatz", "image": "/images/turbulator-inserts.webp", "alt": "Turbulenzeinsatz", "body": "[[CLIENT TO CONFIRM]] Beschreibung (auf der aktuellen Website nicht veröffentlicht)" }
+      ],
+      "tflKicker": "02 / Tube Fins Ltd",
+      "tflTitle": "Rippenrohre aus eigener Fertigung",
+      "tflBody": "Alle Oberflächen wurden im eigenen Haus umfangreich geprüft. Diese Daten, verbunden mit eigener thermischer Auslegungssoftware, sichern jedes Mal die optimale Ausführung.",
+      "tflAlt": "Tube Fins Ltd"
+    },
+    "automotive": {
+      "meta": {
+        "title": "Fahrzeugrohre",
+        "description": "Aluminium-Drahtberippung auf dem Rohr für Wärmeübertrager in der Fahrzeugtechnik, wo Kosten, Masse und Bauraum Verbrauch, Leistung und Emissionen bestimmen."
+      },
+      "crumb": "Fahrzeugtechnik",
+      "title": "Fahrzeugrohre",
+      "lede": "Der Markt für Wärmeübertrager in der Fahrzeugtechnik stellt andere Anforderungen als andere Industrien. Kosten, Masse und Bauraum sind entscheidend, weil sie Verbrauch, Leistung und Emissionen des Fahrzeugs beeinflussen.",
+      "kicker": "01 / Drahtberippung auf dem Rohr",
+      "heading": "Warum Drahtberippung aus Aluminium",
+      "image": "/images/automotive-wire-fin.webp",
+      "alt": "Fahrzeugrohr mit Aluminium-Drahtberippung",
+      "paragraphs": [
+        "Aluminium-Drahtberippung auf dem Rohr erfüllt alle drei Randbedingungen: einen hohen Wärmeübergangskoeffizienten, geringe Masse und eine kompakte Bauform. Rippen lassen sich auf lange Rohrlängen ohne Verbindungen aufbringen, sodass der Wärmeübertrager Teil der Fluidleitung wird — mit weniger Fittingen und möglichen Leckstellen.",
+        "Die Drahtberippung arbeitet auch bei ungerichteter Anströmung, ohne dass die thermische Leistung einbricht. Die Drähte erzeugen Turbulenz, verbessern den Wärmeübergang und senken den luftseitigen Druckverlust. Sie eignen sich auch für hohe Drücke, weil das Aufbringen der Rippe die mechanische Integrität des Rohrs nicht beeinträchtigt.",
+        "Aluminium ist der häufigste Werkstoff für Rippe und Rohr: hohe Wärmeleitfähigkeit, gute Korrosionsbeständigkeit und niedrige Kosten. Wo zusätzliche Festigkeit oder Dauerhaftigkeit nötig ist, können Rohre aus nichtrostendem Stahl oder beschichtetem Kohlenstoffstahl eingesetzt werden. Verschiedene Rohrdurchmesser und Rippenkonfigurationen sind verfügbar; Form, Größe und Anordnung passen wir an den vorhandenen Bauraum an."
+      ],
+      "specKicker": "02 / Spezifikation",
+      "specTitle": "Fahrzeugkühler",
+      "bullets": [
+        "Hocheffiziente Drahtberippung (Aluminium oder Kupfer)",
+        "Berippung direkt auf dem Rohr, dadurch Teil der Fluidleitung",
+        "Keine Zwischenverbindungen erforderlich",
+        "Hält hohen Drücken stand (begrenzt durch das Grundrohr)",
+        "Aluminium, beschichteter Kohlenstoffstahl und nichtrostender Stahl",
+        "Gerade oder gebogen, endenumgeformt oder als Glattrohr"
+      ],
+      "photos": [
+        { "image": "/images/automotive-coolers.webp", "alt": "Baugruppe eines Fahrzeugkühlers" },
+        { "image": "/images/automotive-spec-2.webp", "alt": "Detail eines drahtberippten Rohrs" },
+        { "image": "/images/automotive-spec-4.webp", "alt": "Umgeformtes Fahrzeugkühlerrohr" }
+      ]
+    },
+    "refurbishment": {
+      "meta": {
+        "title": "Instandsetzung",
+        "description": "Von luftgekühlten Wärmeübertragern bis zu Dichtungssystemkühlern: SHE wartet und repariert alle Kühlertypen während der Anlagenabstellung im Werk Lincoln."
+      },
+      "crumb": "Instandsetzung",
+      "title": "Von luftgekühlten Wärmeübertragern bis zu Dichtungssystemkühlern warten und reparieren wir alle Kühlertypen",
+      "lede": "Steht die Anlage still, bringen wir die Ausrüstung in unser Werk in Lincoln. Dort erfolgen eine vollständige Bewertung von Schaden, Ursache, Qualität und Konformität sowie ein Empfehlungsbericht.",
+      "processKicker": "01 / Ablauf",
+      "processTitle": "So läuft eine Instandsetzung",
+      "steps": [
+        { "code": "R.01", "title": "Abholen", "body": "Die Ausrüstung wird während Ihrer Anlagenabstellung in unser Werk in Lincoln gebracht." },
+        { "code": "R.02", "title": "Bewerten", "body": "Schadensbewertung, Ursachenanalyse sowie Prüfung von Qualität und Konformität." },
+        { "code": "R.03", "title": "Anbieten", "body": "Ein Empfehlungsbericht und ein festes Endangebot, bevor Arbeiten beginnen." },
+        { "code": "R.04", "title": "Wiederherstellen", "body": "Arbeiten, die die Ausrüstung so nah wie möglich an den Neuzustand zurückführen." }
+      ],
+      "resultsKicker": "02 / Ergebnis",
+      "resultsTitle": "Vorher und nachher",
+      "photos": [
+        { "image": "/images/refurbishment-before.webp", "alt": "Rohrbündel im Anlieferzustand", "caption": "Abb. 1: Rohrbündel im Anlieferzustand · REF 02.1" },
+        { "image": "/images/refurbishment-after.webp", "alt": "Dasselbe Bündel nach der Instandsetzung", "caption": "Abb. 2: Dasselbe Bündel nach der Instandsetzung · REF 02.2" }
+      ],
+      "scopeKicker": "03 / Leistungsumfang",
+      "scopeTitle": "Was die Arbeiten umfassen können",
+      "scope": ["Reinigung", "Rohrtausch", "Ersatz korrodierter Bauteile", "Oberflächenbehandlung und Beschichtung", "Dichtheits- und Wasserdruckprüfung", "UT, RT und LPI", "ASME-U-Stempel und PED", "Prüfung durch Dritte und FAT", "Auslegungsvalidierung", "Modernisierung", "Einhaltung harmonisierter Spezifikationen"],
+      "supportKicker": "04 / Unterstützung vor Ort",
+      "supportTitle": "Vor, während und nach einer Abstellung",
+      "supportDeck": "Wir arbeiten in stark regulierten Branchen wie Öl und Gas, Energie, Wasser, Petrochemie und weiteren industriellen Anwendungen.",
+      "support": [
+        { "code": "S.01", "title": "Vor-Ort-Prüfung", "body": "Vor einer Abstellung können wir vor Ort prüfen, beraten und den geeigneten Instandsetzungsweg bestätigen." },
+        { "code": "S.02", "title": "Ersatzgeräte", "body": "Ist die Ausrüstung über eine Reparatur hinaus geschädigt, empfiehlt SHE ein neues Gerät mit verkürzter Lieferzeit innerhalb des Abstellungsfensters." },
+        { "code": "S.03", "title": "Ersatzteile", "body": "Ersatzteile für SHE-Kühler aus über 50 Jahren.", "href": "/aftermarket/" }
+      ]
+    },
+    "manufacturing": {
+      "meta": {
+        "title": "Fertigung",
+        "description": "Präzisionsfertigung im eigenen Werk in Lincoln: CNC-Bearbeitung, Rohrberippung, Stahlbau, Prüfung, Schweißen und Lüftermontage."
+      },
+      "crumb": "Fertigung",
+      "title": "Präzisionsfertigung im eigenen Haus",
+      "lede": "Ein umfassendes Fertigungsprogramm in unserem Werk in Lincoln.",
+      "photos": [
+        { "image": "/images/manufacturing-cnc.webp", "alt": "CNC-Drehzentrum mit angetriebenen Werkzeugen", "caption": "Abb. 1: CNC-Drehzentrum mit angetriebenen Werkzeugen · REF 01.1" },
+        { "image": "/images/manufacturing-fabrication.webp", "alt": "Fertigung in der Werkshalle", "caption": "Abb. 2: Fertigung in der Werkshalle · REF 01.2" }
+      ],
+      "kicker": "01 / Leistungen",
+      "heading": "Was wir im eigenen Haus tun",
+      "items": [
+        { "code": "M.01", "title": "CNC-Bearbeitung", "body": "Zwei CNC-3-Achs-Fräsmaschinen und ein CNC-Drehzentrum mit angetriebenen Werkzeugen." },
+        { "code": "M.02", "title": "Rohrberippung und Einsätze", "body": "Rippenrohre aus eigener Fertigung von Tube Fins Ltd.", "href": "/fin-tube/" },
+        { "code": "M.03", "title": "Fertigung", "body": "Stahlbau und präziser Blechzuschnitt." },
+        { "code": "M.04", "title": "Oberflächenbehandlung", "body": "Strahlen und Beschichten für schützende Oberflächen." },
+        { "code": "M.05", "title": "Prüfung", "body": "Luft-unter-Wasser-Prüfungen, Druckprüfungen und Ölspülen." },
+        { "code": "M.06", "title": "Schweißen und Prüfung", "body": "Geprüfte Schweißung, Farbeindringprüfung und PMI." },
+        { "code": "M.07", "title": "Lüfter- und Motormontage", "body": "Montage von Lüfter und Motor, mit Probelauf zur Bestätigung der Kühlleistung." }
+      ]
+    },
+    "company": {
+      "meta": {
+        "title": "Unternehmen",
+        "description": "Specialist Heat Exchangers Ltd legt seit 1968 maßgefertigte Kühleinrichtungen für industrielle und petrochemische Anwendungen aus und fertigt sie."
+      },
+      "crumb": "Unternehmen",
+      "title": "Über Specialist Heat Exchangers Ltd",
+      "lede": "Seit 1968 Auslegung und Fertigung maßgeschneiderter, kompakter und effizienter Kühleinrichtungen für industrielle und petrochemische Anwendungen.",
+      "paragraphs": [
+        "Eine möglichst kompakte Kühllösung gelingt durch die Wahl hocheffizienter innerer und äußerer Vergrößerungsflächen, abgestimmt auf maximale Wärmeübertragungsleistung.",
+        "Alle Oberflächen wurden im eigenen Haus umfangreich geprüft. Diese Daten, verbunden mit eigener thermischer Auslegungssoftware, sichern jedes Mal die optimale Ausführung.",
+        "Unsere gesamte Ausrüstung wird im eigenen Haus gefertigt, um Qualität und Leistung zu halten. Wir kennen die Anforderungen der großen Öl- und Gasunternehmen weltweit, legen nach API 661 aus und fertigen danach, und wir führen den ASME-U-Stempel."
+      ],
+      "photo": "/images/industrial-cooling.webp",
+      "photoAlt": "Industrielle Kühleinrichtung von Specialist Heat Exchangers",
+      "photoNote": "[[CLIENT TO CONFIRM]] neues Foto des Standorts Lincoln (das vorhandene ist niedrig aufgelöst)",
+      "numbersKicker": "02 / In Zahlen",
+      "numbersTitle": "Specialist Heat Exchangers im Überblick",
+      "numbers": [
+        { "value": "1968", "label": "Auslegung und Fertigung seit" },
+        { "value": "API 661", "label": "Norm für Auslegung und Fertigung" },
+        { "value": "ASME U", "label": "Stempel vorhanden" },
+        { "value": "ISO 9001 · 14001", "label": "Qualitäts- und Umweltzertifizierung" }
+      ],
+      "policyKicker": "03 / Qualität und Richtlinien",
+      "policyTitle": "Nachweise und Zertifizierungen",
+      "policyDeck": "ISO 9001, ISO 14001 und der ASME-U-Stempel. Zertifikate und Richtlinien können Sie unten herunterladen.",
+      "policies": [
+        { "code": "Q.01", "title": "Zertifikate", "body": "ISO 9001, ISO 14001, ASME-U-Stempel", "action": "Zertifikate herunterladen", "href": "/downloads/certificates/" },
+        { "code": "Q.02", "title": "Richtlinie zur ethischen Beschaffung", "body": "Globale Verantwortung: Leitprinzipien in der Praxis", "action": "Richtlinie lesen", "href": "/downloads/ethical-procurement/" },
+        { "code": "Q.03", "title": "Nachhaltigkeitsrichtlinie", "body": "Umweltverantwortung: unseren Planeten erhalten", "action": "Richtlinie lesen", "href": "/downloads/sustainability/" }
+      ]
+    },
+    "whitepapers": {
+      "meta": {
+        "title": "Fachbeiträge",
+        "description": "Technische Einführungen in die Apparate und Verfahren, mit denen Specialist Heat Exchangers arbeitet."
+      },
+      "crumb": "Fachbeiträge",
+      "title": "Fachbeiträge",
+      "lede": "Technische Einführungen in die Apparate und Verfahren, mit denen wir arbeiten.",
+      "kicker": "01 / Bibliothek",
+      "heading": "Technische Fachbeiträge",
+      "columns": ["Code", "Titel", "Kurztext", "Aktion"],
+      "rows": [
+        { "code": "WP.01", "title": "Einführung in luftgekühlte Wärmeübertrager", "summary": "Auslegung, Betrieb und Instandhaltung von Luftkühlern, mit Daten und Hinweisen zu Wirkungsgrad und Nachhaltigkeit.", "action": "Lesen", "href": "/downloads/wp-01/" },
+        { "code": "WP.02", "title": "Einführung in Berippung und Rohreinsätze", "summary": "Wie Berippung und Einsätze die Oberfläche vergrößern und die Wärmeübertragung in Wärmeübertragern verbessern.", "action": "Lesen", "href": "/downloads/wp-02/" }
+      ]
+    },
+    "contact": {
+      "meta": {
+        "title": "Kontakt",
+        "description": "Sprechen Sie das Engineering-Team von Specialist Heat Exchangers in Lincoln zu Produkten, Service und Angeboten an."
+      },
+      "crumb": "Kontakt",
+      "title": "Kontakt",
+      "lede": "Sprechen Sie unser Engineering-Team zu Produkten, Service und Angeboten an."
+    },
+    "privacy": {
+      "meta": {
+        "title": "Datenschutz und Cookies",
+        "description": "Wie Specialist Heat Exchangers Ltd Ihre Angaben erhebt, nutzt und schützt."
+      },
+      "crumb": "Datenschutz und Cookies",
+      "title": "Datenschutz und Cookies",
+      "lede": "Wie Specialist Heat Exchangers Ltd Ihre Angaben erhebt, nutzt und schützt. Zuletzt aktualisiert [[CLIENT TO CONFIRM]].",
+      "kicker": "01 / Richtlinie",
+      "heading": "Unsere Datenschutzerklärung",
+      "sections": [
+        { "id": "p01", "nav": "01  Wer wir sind", "code": "P.01", "title": "Wer wir sind", "body": "Specialist Heat Exchangers Ltd, Freeman Road, North Hykeham, Lincoln LN6 9AP, Vereinigtes Königreich. Firmennr. [[CLIENT TO CONFIRM]]. Kontakt: info@she-uk.com." },
+        { "id": "p02", "nav": "02  Was wir erheben", "code": "P.02", "title": "Was wir erheben", "body": "Angaben, die Sie über das Kontakt- oder Angebotsformular senden (Name, Unternehmen, E-Mail, Telefon, Projektspezifikation), sowie anonyme Analysedaten, wenn Sie Analyse-Cookies akzeptieren." },
+        { "id": "p03", "nav": "03  Wie wir sie nutzen", "code": "P.03", "title": "Wie wir sie nutzen", "body": "Um Anfragen zu beantworten, Angebote zu erstellen, Aufträge zu erfüllen und die Website zu verbessern. Wir verkaufen Ihre Angaben nicht." },
+        { "id": "p04", "nav": "04  Cookies", "code": "P.04", "title": "Cookies", "body": "Notwendige Cookies halten die Website funktionsfähig. Analyse-Cookies werden nur gesetzt, wenn Sie sie akzeptieren. Ihre Auswahl können Sie jederzeit über den Link zu den Cookie-Einstellungen in der Fußzeile ändern." },
+        { "id": "p05", "nav": "05  Wie lange wir sie behalten", "code": "P.05", "title": "Wie lange wir sie behalten", "body": "Anfragen werden [[CLIENT TO CONFIRM]] Jahre aufbewahrt oder so lange, wie es Verträge und Qualitätsaufzeichnungen nach ISO 9001 verlangen." },
+        { "id": "p06", "nav": "06  Ihre Rechte", "code": "P.06", "title": "Ihre Rechte", "body": "Nach der UK GDPR können Sie Auskunft, Berichtigung oder Löschung verlangen oder der Nutzung widersprechen. Kontakt: info@she-uk.com, oder Beschwerde beim Information Commissioner’s Office (ico.org.uk)." }
+      ]
+    },
+    "notFound": {
+      "meta": {
+        "title": "Seite nicht gefunden",
+        "description": "Diese Seite wurde verschoben oder existiert nicht mehr."
+      },
+      "eyebrow": "Fehler 404",
+      "title": "Diese Seite wurde verschoben oder existiert nicht mehr",
+      "lede": "Der Link ist möglicherweise veraltet. Nutzen Sie eine der Seiten unten oder fragen Sie unser Engineering-Team.",
+      "kicker": "Häufig gesucht",
+      "heading": "Wohin als Nächstes",
+      "columns": ["Code", "Titel", "Kurztext", "Aktion"],
+      "rows": [
+        { "code": "01", "title": "Wärmeübertrager", "summary": "Luftgekühlt, Rohrbündel, Industrie, Lager, Dichtung und Fahrzeugtechnik.", "action": "Produkte ansehen", "href": "/products/" },
+        { "code": "02", "title": "Instandsetzung", "summary": "Reparaturen in der Abstellung, Ursachenanalyse und Modernisierung in Lincoln.", "action": "Service ansehen", "href": "/refurbishment/" }
+      ]
+    },
+    "download": {
+      "meta": {
+        "title": "Dokument",
+        "description": "Dieses Dokument liegt noch nicht vor."
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "she-site",
+  "private": true,
+  "description": "Specialist Heat Exchangers marketing site",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && node scripts/set-html-lang.mjs",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^15.5.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.0",
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "typescript": "^5.9.2"
+  }
+}

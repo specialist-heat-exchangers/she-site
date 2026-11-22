@@ -1,0 +1,641 @@
+{
+  "locale": "en",
+  "meta": {
+    "siteName": "Specialist Heat Exchangers",
+    "ogImageAlt": "Specialist Heat Exchangers homepage — custom heat exchangers designed and made in Lincoln"
+  },
+  "company": {
+    "legalName": "Specialist Heat Exchangers Ltd",
+    "divisionLine": "Tube Fins Ltd (division)",
+    "phone": "+44 (0)1522 881100",
+    "phoneHref": "tel:+441522881100",
+    "email": "info@she-uk.com",
+    "addressLines": ["Freeman Road, North Hykeham", "Lincoln LN6 9AP, United Kingdom"],
+    "addressInline": "Freeman Road, North Hykeham, Lincoln LN6 9AP, United Kingdom",
+    "gettingHere": "Near the historic city of Lincoln, with easy access by rail and road.",
+    "linkedinName": "Specialist Heat Exchangers Ltd",
+    "linkedinNote": "[[CLIENT TO CONFIRM]] profile URL",
+    "companyNumber": "[[CLIENT TO CONFIRM]]",
+    "vat": "[[CLIENT TO CONFIRM]]",
+    "mapsQuery": "Freeman Road, North Hykeham, Lincoln LN6 9AP, United Kingdom",
+    "mapsLabel": "Map embed (Google Maps: Freeman Road, North Hykeham, LN6 9AP)"
+  },
+  "nav": [
+    { "label": "Products", "href": "/products/" },
+    { "label": "Aftermarket", "href": "/aftermarket/" },
+    { "label": "Fin tube", "href": "/fin-tube/" },
+    { "label": "Servicing", "href": "/refurbishment/" },
+    { "label": "Company", "href": "/company/" },
+    { "label": "Contact", "href": "/contact/" }
+  ],
+  "footerNav": [
+    [
+      { "label": "Products", "href": "/products/" },
+      { "label": "Aftermarket", "href": "/aftermarket/" },
+      { "label": "Fin tube", "href": "/fin-tube/" },
+      { "label": "Automotive", "href": "/automotive/" }
+    ],
+    [
+      { "label": "Servicing", "href": "/refurbishment/" },
+      { "label": "Manufacturing", "href": "/manufacturing/" },
+      { "label": "Company", "href": "/company/" },
+      { "label": "Whitepapers", "href": "/whitepapers/" }
+    ]
+  ],
+  "footerLabels": {
+    "company": "Company",
+    "headOffice": "Head office",
+    "enquiries": "Enquiries",
+    "pages": "Pages"
+  },
+  "legal": {
+    "companyNo": "Company no.",
+    "vat": "VAT",
+    "privacy": "Privacy",
+    "cookies": "Cookie settings",
+    "rev": "Rev. A"
+  },
+  "cta": {
+    "title": "Have a specification? Talk to our engineering team.",
+    "button": "Contact us",
+    "href": "/contact/"
+  },
+  "ui": {
+    "requestQuote": "Request a quote",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "english": "English",
+    "german": "Deutsch",
+    "viewProducts": "View products",
+    "findOutMore": "Find out more",
+    "home": "Home",
+    "sendEnquiry": "Send enquiry",
+    "enquirySent": "Enquiry sent",
+    "enquiryThanks": "Thank you. Your enquiry has reached our team in Lincoln and we will get back to you as soon as possible.",
+    "mailtoNotice": "This form is not connected to our inbox yet. Sending it opens an email to info@she-uk.com. Please attach any drawing separately — a mail draft cannot include the file.",
+    "mailtoOpened": "Email draft opened",
+    "mailtoBody": "If your email app did not open, write to info@she-uk.com with the details below.",
+    "formError": "The form could not be sent. Please email info@she-uk.com.",
+    "sending": "Sending…",
+    "fileLabel": "Drawing or datasheet (optional upload)",
+    "chooseFile": "Choose a file",
+    "noFile": "No file selected",
+    "cookieTitle": "Cookie settings",
+    "cookieBody": "Essential cookies are not used. Analytics cookies stay off until you accept them. This site does not load an analytics script yet. Your choice is saved only in this browser.",
+    "cookieAccept": "Accept analytics",
+    "cookieReject": "Reject analytics",
+    "cookieOn": "Analytics cookies: accepted",
+    "cookieOff": "Analytics cookies: off",
+    "backToHome": "Back to home",
+    "redirectServicing": "Servicing is covered on our refurbishment page.",
+    "continue": "Continue",
+    "openInMaps": "Open in Maps",
+    "pending": "[[CLIENT TO CONFIRM]]",
+    "read": "Read",
+    "downloadCertificates": "Download certificates",
+    "readPolicy": "Read the policy",
+    "seeManufacturing": "See manufacturing",
+    "seeRefurbishment": "See the refurbishment service",
+    "requestSpares": "Request spares for your SHE cooler"
+  },
+  "form": {
+    "title": "Request a quote",
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone",
+    "application": "Application (e.g. air cooled, shell and tube, refurbishment)",
+    "requirement": "Your requirement",
+    "subject": "SHE website enquiry"
+  },
+  "cookies": {
+    "headOffice": "Head office",
+    "telephone": "Telephone",
+    "email": "Email",
+    "gettingHere": "Getting here",
+    "linkedin": "LinkedIn"
+  },
+  "downloads": [
+    {
+      "slug": "certificates",
+      "title": "Certificates",
+      "summary": "ISO 9001, ISO 14001 and the ASME U stamp.",
+      "body": "The certificate PDFs have not been supplied yet. [[CLIENT TO CONFIRM]]"
+    },
+    {
+      "slug": "ethical-procurement",
+      "title": "Ethical procurement policy",
+      "summary": "Global responsibility: guiding principles in practice.",
+      "body": "The ethical procurement policy PDF has not been supplied yet. [[CLIENT TO CONFIRM]]"
+    },
+    {
+      "slug": "sustainability",
+      "title": "Sustainability policy",
+      "summary": "Environmental stewardship: sustaining our planet.",
+      "body": "The sustainability policy PDF has not been supplied yet. [[CLIENT TO CONFIRM]]"
+    },
+    {
+      "slug": "wp-01",
+      "title": "Introduction to air cooled heat exchangers",
+      "summary": "Design, operation and maintenance of ACHEs.",
+      "body": "Whitepaper WP.01 has not been supplied yet. [[CLIENT TO CONFIRM]]"
+    },
+    {
+      "slug": "wp-02",
+      "title": "Introduction to tube finning and inserting",
+      "summary": "How finning and inserting improve thermal transfer.",
+      "body": "Whitepaper WP.02 has not been supplied yet. [[CLIENT TO CONFIRM]]"
+    }
+  ],
+  "pages": {
+    "home": {
+      "meta": {
+        "title": "Specialist Heat Exchangers",
+        "description": "Bespoke, compact, efficient cooling equipment for industrial and petrochemical applications, designed with HTRI Xchanger Suite and SolidWorks and manufactured in-house in Lincoln, UK."
+      },
+      "eyebrow": "Heat exchanger specialists since 1968 · Lincoln, UK",
+      "title": "Custom heat exchangers, designed and made to order",
+      "lede": "Bespoke, compact, efficient cooling equipment for industrial and petrochemical applications, designed with HTRI Xchanger Suite and SolidWorks and manufactured in-house.",
+      "heroAlt": "Air cooled heat exchanger designed and built to API 661",
+      "heroCaption": "Fig. 1: Air cooled heat exchanger, designed and built to API 661 · REF 00.1",
+      "callouts": [
+        { "kicker": "Design code", "value": "API 661", "place": "code" },
+        { "kicker": "Motors", "value": "ATEX for hazardous areas", "place": "motors" },
+        { "kicker": "Tube blocks", "value": "Vertical or horizontal", "place": "blocks" }
+      ],
+      "specs": [
+        { "value": "API 661 / 660", "label": "Design codes" },
+        { "value": "ASME U", "label": "Stamp held" },
+        { "value": "400 bar(g)", "label": "Shell & tube max" },
+        { "value": "ISO 9001 · 14001", "label": "Certified" }
+      ],
+      "trustLabel": "Certifications",
+      "trust": ["ISO 9001", "ISO 14001", "ASME U Stamp", "PED cat I–IV", "ATEX"],
+      "companyKicker": "01 / Company",
+      "companyTitle": "Designing and building heat transfer equipment since 1968",
+      "companyDeck": "All equipment is manufactured in-house in Lincoln, including finned tubes made by our division Tube Fins Ltd.",
+      "figures": [
+        { "value": "1968", "label": "Year founded" },
+        { "value": "400 bar(g)", "label": "Shell & tube design pressure" },
+        { "value": "In-house", "label": "Finned tubes by Tube Fins Ltd" },
+        { "value": "Lincoln, UK", "label": "Controlled factory" }
+      ],
+      "productsKicker": "02 / Products",
+      "productsTitle": "Heat exchanger products",
+      "productsDeck": "A large range of heat exchanger products. Contact us for bespoke solutions.",
+      "cards": [
+        {
+          "title": "Air cooled heat exchangers",
+          "image": "/images/hero-air-cooled.webp",
+          "alt": "Air cooled heat exchanger",
+          "href": "/products/#p01",
+          "bullets": ["API 661 compliant", "Vertical or horizontal tube blocks", "ATEX motors for hazardous areas", "Winterised solutions"]
+        },
+        {
+          "title": "Shell and tube heat exchangers",
+          "image": "/images/shell-and-tube.webp",
+          "alt": "Shell and tube heat exchangers",
+          "href": "/products/#p02",
+          "bullets": ["API 660 design", "Up to 400 bar(g)", "ASME U Stamp / PED cat I–IV", "Hydrotested"]
+        },
+        {
+          "title": "Industrial cooling",
+          "image": "/images/industrial-cooling.webp",
+          "alt": "Industrial cooling equipment",
+          "href": "/products/#p03",
+          "bullets": ["Heavy duty applications", "PED / ATEX / ASME VIII if required", "Wide range of materials", "Fully tested before despatch"]
+        },
+        {
+          "title": "Automotive coolers",
+          "image": "/images/automotive-coolers.webp",
+          "alt": "Automotive wire-wound coolers",
+          "href": "/automotive/",
+          "bullets": ["Wire wound aluminium", "Custom bends and ends", "Aluminium, plated carbon steel or stainless steel"]
+        }
+      ],
+      "sectorsKicker": "Sectors we serve",
+      "sectorsTitle": "Engineered for the industries that can’t stop",
+      "sectorsDeck": "From refinery air coolers to automotive oil coolers, SHE equipment runs in some of the most demanding process environments in the UK and abroad. [[CLIENT TO CONFIRM]] sector list.",
+      "sectors": [
+        { "code": "S.01", "title": "Petrochemical", "body": "Air cooled exchangers to API 661 for refineries and process plants." },
+        { "code": "S.02", "title": "Oil & gas", "body": "Shell and tube units to API 660, ATEX rated where required." },
+        { "code": "S.03", "title": "Power generation", "body": "Cooling for turbines, lube oil and auxiliary systems." },
+        { "code": "S.04", "title": "Automotive", "body": "Wire wound aluminium coolers with custom bends and ends." },
+        { "code": "S.05", "title": "Industrial", "body": "Heavy duty cooling for steel, chemical and manufacturing sites." }
+      ],
+      "capKicker": "03 / Capabilities",
+      "capTitle": "From thermal design to refurbishment",
+      "capabilities": [
+        { "code": "001", "title": "Mechanical design", "body": "Efficient analysis tools using cutting-edge techniques, with PV Elite mechanical calculations." },
+        { "code": "002", "title": "Design simulation", "body": "HTRI Xchanger Suite and SolidWorks to make sure designs meet or exceed customer requirements." },
+        { "code": "003", "title": "Manufacturing", "body": "In-house CNC machining: two 3-axis mills and a CNC turning centre with live tooling." },
+        { "code": "004", "title": "Refurbishment", "body": "Equipment sent to our Lincoln factory during shutdowns for damage, root cause and QC assessment." }
+      ],
+      "qualityKicker": "04 / Quality",
+      "qualityTitle": "Credentials and certifications",
+      "qualityDeck": "ISO 9001 quality management, ISO 14001 environmental management, and the ASME U stamp for pressure vessel design and manufacture.",
+      "qualityLinks": [
+        { "label": "Download certificates", "href": "/downloads/certificates/" },
+        { "label": "Ethical procurement policy", "href": "/downloads/ethical-procurement/" },
+        { "label": "Sustainability policy", "href": "/downloads/sustainability/" }
+      ]
+    },
+    "products": {
+      "meta": {
+        "title": "Heat exchanger products",
+        "description": "A large range of heat exchanger products, designed to client specifications and manufactured in-house in Lincoln."
+      },
+      "crumb": "Products",
+      "title": "Heat exchanger products",
+      "lede": "A large range of heat exchanger products, designed to client specifications and manufactured in-house in Lincoln. Contact us for bespoke solutions.",
+      "items": [
+        {
+          "id": "p01",
+          "code": "P.01",
+          "index": "Air cooled",
+          "title": "Air cooled heat exchangers",
+          "deck": "Fully bespoke air coolers designed to suit client specifications.",
+          "image": "/images/hero-air-cooled.webp",
+          "alt": "Air cooled heat exchangers",
+          "caption": "Fig. 1: Air cooled heat exchangers · REF P.01",
+          "chips": ["API 661", "ATEX"],
+          "bullets": ["API 661 compliant", "Vertical or horizontal tube blocks", "Direct coupling or belt driven", "ATEX motors for hazardous areas", "Dampers for fan redundancy", "Bonnet or plugged headers", "Parallel or series process flow depending on pressure drop", "Winterised solutions"],
+          "quote": "Request a quote for this product",
+          "application": "Air cooled heat exchangers",
+          "extra": null
+        },
+        {
+          "id": "p02",
+          "code": "P.02",
+          "index": "Shell and tube",
+          "title": "Shell and tube heat exchangers",
+          "deck": "Shell and tube exchangers for high-pressure service.",
+          "image": "/images/shell-and-tube.webp",
+          "alt": "Shell and tube heat exchangers",
+          "caption": "Fig. 2: Shell and tube heat exchangers · REF P.02",
+          "chips": ["API 660", "400 bar(g)", "ASME U"],
+          "bullets": ["API 660 design", "High pressure applications up to 400 bar(g)", "ASME U Stamp / PED cat I–IV", "PV Elite mechanical calculations", "Hydrotested", "CS, SS and copper; painted for harsh environments"],
+          "quote": "Request a quote for this product",
+          "application": "Shell and tube heat exchangers",
+          "extra": null
+        },
+        {
+          "id": "p03",
+          "code": "P.03",
+          "index": "Industrial cooling",
+          "title": "Industrial cooling",
+          "deck": "Designed and built for heavy duty applications.",
+          "image": "/images/industrial-cooling.webp",
+          "alt": "Industrial cooling equipment",
+          "caption": "Fig. 3: Industrial cooling · REF P.03",
+          "chips": ["PED", "ATEX", "ASME VIII"],
+          "bullets": ["Designed and built for heavy duty applications", "Complies with PED / ATEX / ASME VIII if required", "Wide range of construction material options", "Fully tested before despatch", "Designed to meet size and weight constraints", "Like for like replacement equipment can be supplied", "Hydraulic oil, water, steam condenser and compressor coolers"],
+          "quote": "Request a quote for this product",
+          "application": "Industrial cooling",
+          "extra": null
+        },
+        {
+          "id": "p04",
+          "code": "P.04",
+          "index": "Bearing coolers",
+          "title": "Bearing coolers",
+          "deck": "A design service to create a cooler for your thermal duty and installation, in CS, SS, duplex SS, copper, CuNi, brass or aluminium. Plain inserted tube, twisted or coiled finned tube, or multiple coils.",
+          "image": "/images/bearing-coolers.webp",
+          "alt": "Bearing coolers",
+          "caption": "Fig. 4: Bearing coolers · REF P.04",
+          "chips": ["Bespoke"],
+          "bullets": ["Gearbox coolers", "Flue gas waste heat recovery", "Hydraulic line coolers", "Air heaters", "Anywhere fluid or air cooling or heating is needed"],
+          "quote": "Request a quote for this product",
+          "application": "Bearing coolers",
+          "extra": null
+        },
+        {
+          "id": "p05",
+          "code": "P.05",
+          "index": "Turbo machinery cooling",
+          "title": "Turbo machinery cooling",
+          "deck": "Project-specific design solutions for gas turbine, pump and compressor packages.",
+          "image": "/images/turbo-machinery.webp",
+          "alt": "Turbo machinery cooling",
+          "caption": "Fig. 5: Turbo machinery cooling · REF P.05",
+          "chips": ["Gas turbine", "Compressor"],
+          "bullets": ["Gas turbines: lube oil, synthetic oil, seal / purge air, combustion air inlet chiller", "Pumps: lube oil, working oil and mechanical seal barrier fluid cooling", "Compressors: lube oil, jacket water, intercoolers, aftercoolers", "Services can be combined to minimise plot area", "Materials of construction to match service and climatic demands", "Service redundancy if required", "Low noise solutions available", "Pump coolers and oil coolers"],
+          "quote": "Request a quote for this product",
+          "application": "Turbo machinery cooling",
+          "extra": null
+        },
+        {
+          "id": "p06",
+          "code": "P.06",
+          "index": "Seal coolers",
+          "title": "Seal coolers",
+          "deck": "Bespoke designs to clients’ thermal and mechanical requirements.",
+          "image": "/images/seal-coolers.webp",
+          "alt": "Seal coolers",
+          "caption": "Fig. 6: Seal coolers · REF P.06",
+          "chips": ["Bespoke"],
+          "bullets": ["Bespoke designs to clients’ thermal and mechanical requirements", "Natural convection (straight tube or coil) and air blast options", "Pressure parts in stainless steel 316/L, duplex and super duplex stainless steel", "External extended surfaces: aluminium ribbon type, stainless steel, duplex or super duplex wire loop type", "Direct drive electric motors (ABB, Siemens, WEG, CEMP) to IEC Ex and NEMA standards", "In-house machining, coded welding, RT, UT, MPI and DP with PMI, painting, hydraulic testing and flushing", "ASME VIII with U stamp, CE/UKCA marked, with approvals such as CRN (Canada) and DOSH (Malaysia) as required"],
+          "quote": "Request a quote for this product",
+          "application": "Seal coolers",
+          "extra": null
+        },
+        {
+          "id": "p07",
+          "code": "P.07",
+          "index": "Automotive coolers",
+          "title": "Automotive coolers",
+          "deck": "Wire wound aluminium coolers in custom shapes.",
+          "image": "/images/automotive-coolers.webp",
+          "alt": "Automotive coolers",
+          "caption": "Fig. 7: Automotive coolers · REF P.07",
+          "chips": ["Aluminium"],
+          "bullets": ["High efficiency wire fin design (aluminium or copper)", "Finning applied directly onto the tube, so it can be part of the fluid line", "No intermediate joints required", "Withstands high pressures (limited by the base tube)", "Aluminium, plated carbon steel and stainless steel", "Supplied straight or bent, end formed or plain tube"],
+          "quote": "Request a quote for this product",
+          "application": "Automotive coolers",
+          "extra": { "label": "See automotive tubes", "href": "/automotive/" }
+        },
+        {
+          "id": "p08",
+          "code": "P.08",
+          "index": "Fabrication",
+          "title": "Fabrication services",
+          "deck": "Fabrication and pressure vessel work carried out in our Lincoln factory.",
+          "image": "/images/fabrication.webp",
+          "alt": "Fabrication in the Lincoln factory",
+          "caption": "Fig. 8: Fabrication services · REF P.08",
+          "chips": ["ASME IX", "NACE"],
+          "bullets": ["Large bed plasma cutter", "CNC axis mills and turning centre", "Brazing and silver soldering", "TIG, MMA, FCAW and MIG/MAG welding", "Coded welders to ASME IX", "Painting to NACE standards", "ASME / API pressure vessels"],
+          "quote": "Request a quote for fabrication",
+          "application": "Fabrication",
+          "extra": null
+        },
+        {
+          "id": "p09",
+          "code": "P.09",
+          "index": "Spares",
+          "title": "Spares",
+          "deck": "Complete SHE ‘legacy’ coolers going back over 50 years, plus replacement parts.",
+          "image": "/images/spares.webp",
+          "alt": "Replacement parts for SHE coolers",
+          "caption": "Fig. 9: Spares · REF P.09",
+          "chips": ["Legacy", "OEM parts"],
+          "bullets": ["Replacement tubeblocks for SHE air blast coolers", "Replacement tubestack, bonnet and shell assemblies for SHE shell and tube coolers", "Complete fan and motor assemblies, motors, impellers, bearings and drive belts", "Header gaskets, header plugs and washers", "Shell and tube cooler gaskets and seal kits"],
+          "quote": null,
+          "application": "",
+          "extra": { "label": "See aftermarket and spares", "href": "/aftermarket/" }
+        }
+      ],
+      "mfgKicker": "08 / Manufacturing",
+      "mfgTitle": "Designed and made in-house in Lincoln",
+      "mfgPhotos": [
+        { "image": "/images/manufacturing-cnc.webp", "alt": "CNC turning centre with live tooling", "caption": "Fig. 8: CNC turning centre with live tooling · REF 08.1", "href": "/manufacturing/" },
+        { "image": "/images/manufacturing-fabrication.webp", "alt": "Fabrication on the factory floor", "caption": "Fig. 9: Fabrication on the factory floor · REF 08.2", "href": "/manufacturing/" },
+        { "image": "/images/refurbishment-after.webp", "alt": "Refurbished tube bundle", "caption": "Fig. 10: Refurbished tube bundle ready for return · REF 08.3", "href": "/refurbishment/" }
+      ]
+    },
+    "aftermarket": {
+      "meta": {
+        "title": "Aftermarket and spares",
+        "description": "Complete SHE legacy coolers going back over 50 years, plus replacement parts for SHE air blast and shell and tube coolers."
+      },
+      "crumb": "Aftermarket",
+      "title": "Aftermarket and spares",
+      "lede": "Complete SHE ‘legacy’ coolers going back over 50 years, plus replacement parts for SHE air blast and shell and tube coolers.",
+      "sparesKicker": "01 / Spares",
+      "sparesTitle": "Replacement parts for SHE coolers",
+      "sparesImage": "/images/spares.webp",
+      "sparesAlt": "Gaskets, flanges and plugs for SHE coolers",
+      "spares": [
+        "Complete SHE ‘legacy’ coolers going back over 50 years",
+        "Replacement tubeblocks for SHE air blast coolers",
+        "Replacement tubestack, bonnet and shell assemblies for SHE shell and tube coolers",
+        "Complete fan and motor assemblies, motors, impellers, bearings and drive belts",
+        "Header gaskets, header plugs and washers",
+        "Shell and tube cooler gaskets and seal kits"
+      ],
+      "serviceKicker": "02 / Servicing",
+      "serviceTitle": "Keeping older equipment running",
+      "serviceItems": [
+        { "code": "S.01", "title": "Site inspection", "body": "Before a shutdown, we can inspect on site to advise and verify the best remedial plan." },
+        { "code": "S.02", "title": "Refurbishment", "body": "Equipment is brought to our Lincoln factory for damage, root cause and QC assessment, with a fixed and final quotation." },
+        { "code": "S.03", "title": "Replacement units", "body": "Where equipment is beyond repair, SHE will recommend a new unit on an expedited lead time to fit the shutdown schedule." }
+      ]
+    },
+    "finTube": {
+      "meta": {
+        "title": "Fin tube",
+        "description": "Internal and external extended surfaces manufactured in-house by Tube Fins Ltd, a division of Specialist Heat Exchangers Ltd."
+      },
+      "crumb": "Fin tube",
+      "title": "Heat transfer: internal and external extended surfaces",
+      "lede": "All SHE finned tubes are manufactured in-house by Tube Fins Ltd, a division of Specialist Heat Exchangers Ltd.",
+      "kicker": "01 / Tube range",
+      "heading": "External fins and internal inserts",
+      "deck": "A range of high performance internal and external surfaces which, when combined, provide a high performance cooling solution.",
+      "tubes": [
+        { "code": "T.01", "title": "G-fin tube", "image": "/images/g-finned-tube.webp", "alt": "G-fin tube", "body": "High conductivity fin tube for elevated temperature applications. A helical groove is formed in the tube surface, and the metal raised each side is peened back into the fin to grip it securely, giving high heat transfer and a secure mechanical bond." },
+        { "code": "T.02", "title": "L-fin tube", "image": "/images/l-finned-tube.webp", "alt": "L-fin tube", "body": "[[CLIENT TO CONFIRM]] description (not published on the current site)" },
+        { "code": "T.03", "title": "LL-fin tube", "image": "/images/ll-finned-tube.webp", "alt": "LL-fin tube", "body": "[[CLIENT TO CONFIRM]] description (not published on the current site)" },
+        { "code": "T.04", "title": "KL-fin tube", "image": "/images/kl-finned-tube.webp", "alt": "KL-fin tube", "body": "[[CLIENT TO CONFIRM]] description (not published on the current site)" },
+        { "code": "T.05", "title": "Wire finned tube", "image": "/images/wire-wound-tube.webp", "alt": "Wire finned tube", "body": "[[CLIENT TO CONFIRM]] description (not published on the current site)" },
+        { "code": "T.06", "title": "Crinkle fin", "image": "/images/crinkle-fin-tube.webp", "alt": "Crinkle fin tube", "body": "[[CLIENT TO CONFIRM]] description (not published on the current site)" },
+        { "code": "T.07", "title": "Tube insert turbulator", "image": "/images/turbulator-inserts.webp", "alt": "Tube insert turbulator", "body": "[[CLIENT TO CONFIRM]] description (not published on the current site)" }
+      ],
+      "tflKicker": "02 / Tube Fins Ltd",
+      "tflTitle": "Finned tubes made in-house",
+      "tflBody": "All surfaces have been extensively tested in-house, and the resulting data, combined with bespoke thermal design software, ensures the optimum design can be achieved every time.",
+      "tflAlt": "Tube Fins Ltd"
+    },
+    "automotive": {
+      "meta": {
+        "title": "Automotive tubes",
+        "description": "Aluminium wire fin on tube for automotive heat exchangers, where cost, mass and packing constraints drive fuel efficiency, performance and emissions."
+      },
+      "crumb": "Automotive",
+      "title": "Automotive tubes",
+      "lede": "The automotive market for heat exchangers has a different set of requirements from other industries. Cost, mass and packing constraints are key drivers, as they affect the fuel efficiency, performance and emissions of the vehicle.",
+      "kicker": "01 / Wire fin on tube",
+      "heading": "Why aluminium wire fin",
+      "image": "/images/automotive-wire-fin.webp",
+      "alt": "Aluminium wire fin automotive tube",
+      "paragraphs": [
+        "Aluminium wire fin on tube meets all three constraints: a high heat transfer coefficient, low weight and a compact design. Fins can be added to long lengths of tube without joints, so the heat exchanger becomes part of the fluid line, with fewer fittings and potential leak points.",
+        "Wire fin works well in confused air flow, as thermal performance is not hindered. The wire fins create turbulence, enhancing heat transfer and reducing air-side pressure drop. They also suit high pressure applications, as applying the fin does not affect the mechanical integrity of the tubing.",
+        "Aluminium is the most common fin and tube material, with high thermal conductivity, good corrosion resistance and low cost. Stainless steel and plated carbon steel tubing can be used where extra strength or durability is needed. A range of tube diameters and fin configurations is available, and we can customise shape, size and layout to fit the available space."
+      ],
+      "specKicker": "02 / Specification",
+      "specTitle": "Automotive coolers",
+      "bullets": [
+        "High efficiency wire fin design (aluminium or copper)",
+        "Finning applied directly onto the tube, so it can be part of the fluid line",
+        "No intermediate joints required",
+        "Withstands high pressures (limited by the base tube)",
+        "Aluminium, plated carbon steel and stainless steel",
+        "Supplied straight or bent, end formed or plain tube"
+      ],
+      "photos": [
+        { "image": "/images/automotive-coolers.webp", "alt": "Automotive cooler assembly" },
+        { "image": "/images/automotive-spec-2.webp", "alt": "Wire fin tube detail" },
+        { "image": "/images/automotive-spec-4.webp", "alt": "Formed automotive cooler tube" }
+      ]
+    },
+    "refurbishment": {
+      "meta": {
+        "title": "Refurbishment",
+        "description": "From air cooled heat exchangers to seal system coolers, SHE services and repairs all cooler types at its Lincoln factory during plant shutdowns."
+      },
+      "crumb": "Refurbishment",
+      "title": "From air cooled heat exchangers to seal system coolers, we service and repair all cooler types",
+      "lede": "When the plant is shut down, we transport the equipment to our factory in Lincoln for a full damage, root cause, quality and compliance assessment, with a recommendation report.",
+      "processKicker": "01 / Process",
+      "processTitle": "How a refurbishment works",
+      "steps": [
+        { "code": "R.01", "title": "Collect", "body": "Equipment is transported to our Lincoln factory during your plant shutdown." },
+        { "code": "R.02", "title": "Assess", "body": "Damage evaluation, root cause analysis, quality and compliance assessment." },
+        { "code": "R.03", "title": "Quote", "body": "A recommendation report and a fixed, final quotation before any work starts." },
+        { "code": "R.04", "title": "Restore", "body": "Work to return the equipment to a condition as close to new as possible." }
+      ],
+      "resultsKicker": "02 / Results",
+      "resultsTitle": "Before and after",
+      "photos": [
+        { "image": "/images/refurbishment-before.webp", "alt": "Tube bundle as received", "caption": "Fig. 1: Tube bundle as received · REF 02.1" },
+        { "image": "/images/refurbishment-after.webp", "alt": "The same bundle after refurbishment", "caption": "Fig. 2: The same bundle after refurbishment · REF 02.2" }
+      ],
+      "scopeKicker": "03 / Scope of work",
+      "scopeTitle": "What the work can include",
+      "scope": ["Cleaning", "Tube replacement", "Replacement of corroded metal", "Surface treatment and painting", "Leak test and hydrostatic test", "UT, RT and LPI", "ASME U stamp and PED", "Third-party inspection and FAT", "Design validation", "Modernisation", "Compliance with harmonised specifications"],
+      "supportKicker": "04 / Site support",
+      "supportTitle": "Before, during and after a shutdown",
+      "supportDeck": "We work in highly regulated industries such as oil and gas, energy, water, petrochemical and other industrial applications.",
+      "support": [
+        { "code": "S.01", "title": "Site inspection", "body": "Before a shutdown, we can perform a site inspection to advise and verify the best remedial plan." },
+        { "code": "S.02", "title": "Replacement units", "body": "Where equipment has deteriorated beyond repair, SHE will recommend a new unit on an expedited lead time to fit within the shutdown schedule." },
+        { "code": "S.03", "title": "Spares", "body": "Replacement parts for SHE coolers going back over 50 years.", "href": "/aftermarket/" }
+      ]
+    },
+    "manufacturing": {
+      "meta": {
+        "title": "Manufacturing",
+        "description": "Precision manufacturing in-house at the Lincoln factory: CNC machining, tube finning, fabrication, testing, welding and fan assembly."
+      },
+      "crumb": "Manufacturing",
+      "title": "Precision manufacturing in-house",
+      "lede": "A comprehensive suite of manufacturing services at our Lincoln factory.",
+      "photos": [
+        { "image": "/images/manufacturing-cnc.webp", "alt": "CNC turning centre with live tooling", "caption": "Fig. 1: CNC turning centre with live tooling · REF 01.1" },
+        { "image": "/images/manufacturing-fabrication.webp", "alt": "Fabrication on the factory floor", "caption": "Fig. 2: Fabrication on the factory floor · REF 01.2" }
+      ],
+      "kicker": "01 / Capabilities",
+      "heading": "What we do in-house",
+      "items": [
+        { "code": "M.01", "title": "CNC machining", "body": "Two CNC 3-axis mills and a CNC turning centre with live tooling." },
+        { "code": "M.02", "title": "Tube finning and inserting", "body": "Finned tubes made in-house by Tube Fins Ltd.", "href": "/fin-tube/" },
+        { "code": "M.03", "title": "Fabrication", "body": "Structural steel fabrication and precise plate cutting." },
+        { "code": "M.04", "title": "Surface treatment", "body": "Grit blasting and painting for protective finishes." },
+        { "code": "M.05", "title": "Testing", "body": "Air under water tests, hydrotests and oil flushing." },
+        { "code": "M.06", "title": "Welding and inspection", "body": "Coded welding, dye penetrant and PMI testing." },
+        { "code": "M.07", "title": "Fan and motor assembly", "body": "Fan and motor assembly, with fan run testing to confirm cooling performance." }
+      ]
+    },
+    "company": {
+      "meta": {
+        "title": "Company",
+        "description": "Specialist Heat Exchangers Ltd has designed and manufactured bespoke cooling equipment for industrial and petrochemical applications since 1968."
+      },
+      "crumb": "Company",
+      "title": "About Specialist Heat Exchangers Ltd",
+      "lede": "Designing and manufacturing bespoke, compact, efficient cooling equipment for industrial and petrochemical applications since 1968.",
+      "paragraphs": [
+        "Success in achieving the most compact cooling solution comes from selecting high efficiency internal and external extended surfaces, balanced for maximum heat transfer performance.",
+        "All surfaces have been extensively tested in-house. That data, combined with bespoke thermal design software, ensures the optimum design can be achieved every time.",
+        "All our equipment is manufactured in-house to maintain quality and performance. We are familiar with the requirements of the world’s major oil and gas companies, design and manufacture to API 661, and hold the ASME U stamp."
+      ],
+      "photo": "/images/industrial-cooling.webp",
+      "photoAlt": "Industrial cooling equipment built by Specialist Heat Exchangers",
+      "photoNote": "[[CLIENT TO CONFIRM]] new photo of the Lincoln site (current one is low resolution)",
+      "numbersKicker": "02 / In numbers",
+      "numbersTitle": "Specialist Heat Exchangers at a glance",
+      "numbers": [
+        { "value": "1968", "label": "Designing and manufacturing since" },
+        { "value": "API 661", "label": "Design and manufacturing standard" },
+        { "value": "ASME U", "label": "Stamp held" },
+        { "value": "ISO 9001 · 14001", "label": "Quality and environmental certification" }
+      ],
+      "policyKicker": "03 / Quality and policies",
+      "policyTitle": "Credentials and certifications",
+      "policyDeck": "ISO 9001, ISO 14001 and the ASME U stamp. Download our certificates and policies below.",
+      "policies": [
+        { "code": "Q.01", "title": "Certificates", "body": "ISO 9001, ISO 14001, ASME U stamp", "action": "Download certificates", "href": "/downloads/certificates/" },
+        { "code": "Q.02", "title": "Ethical procurement policy", "body": "Global responsibility: guiding principles in practice", "action": "Read the policy", "href": "/downloads/ethical-procurement/" },
+        { "code": "Q.03", "title": "Sustainability policy", "body": "Environmental stewardship: sustaining our planet", "action": "Read the policy", "href": "/downloads/sustainability/" }
+      ]
+    },
+    "whitepapers": {
+      "meta": {
+        "title": "Whitepapers",
+        "description": "Technical introductions to the equipment and processes Specialist Heat Exchangers works with."
+      },
+      "crumb": "Whitepapers",
+      "title": "Whitepapers",
+      "lede": "Technical introductions to the equipment and processes we work with.",
+      "kicker": "01 / Library",
+      "heading": "Technical whitepapers",
+      "columns": ["Code", "Title", "Summary", "Action"],
+      "rows": [
+        { "code": "WP.01", "title": "Introduction to air cooled heat exchangers", "summary": "Design, operation and maintenance of ACHEs, with data and insights on efficiency and sustainability.", "action": "Read", "href": "/downloads/wp-01/" },
+        { "code": "WP.02", "title": "Introduction to tube finning and inserting", "summary": "How finning and inserting increase surface area and improve thermal transfer in heat exchangers.", "action": "Read", "href": "/downloads/wp-02/" }
+      ]
+    },
+    "contact": {
+      "meta": {
+        "title": "Contact",
+        "description": "Contact the engineering team at Specialist Heat Exchangers in Lincoln for product information, servicing and quotations."
+      },
+      "crumb": "Contact",
+      "title": "Contact us",
+      "lede": "Contact our engineering team for product information, servicing and quotations."
+    },
+    "privacy": {
+      "meta": {
+        "title": "Privacy and cookies",
+        "description": "How Specialist Heat Exchangers Ltd collects, uses and protects your information."
+      },
+      "crumb": "Privacy and cookies",
+      "title": "Privacy and cookies",
+      "lede": "How Specialist Heat Exchangers Ltd collects, uses and protects your information. Last updated [[CLIENT TO CONFIRM]].",
+      "kicker": "01 / Policy",
+      "heading": "Our privacy policy",
+      "sections": [
+        { "id": "p01", "nav": "01  Who we are", "code": "P.01", "title": "Who we are", "body": "Specialist Heat Exchangers Ltd, Freeman Road, North Hykeham, Lincoln LN6 9AP, United Kingdom. Company no. [[CLIENT TO CONFIRM]]. Contact: info@she-uk.com." },
+        { "id": "p02", "nav": "02  What we collect", "code": "P.02", "title": "What we collect", "body": "Details you send through the contact or quote forms (name, company, email, phone, project specification), and anonymous analytics data if you accept analytics cookies." },
+        { "id": "p03", "nav": "03  How we use it", "code": "P.03", "title": "How we use it", "body": "To reply to enquiries, prepare quotations, deliver orders and improve the website. We do not sell your information." },
+        { "id": "p04", "nav": "04  Cookies", "code": "P.04", "title": "Cookies", "body": "Essential cookies keep the site working. Analytics cookies are only set if you accept them, and you can change your choice at any time from the cookie settings link in the footer." },
+        { "id": "p05", "nav": "05  How long we keep it", "code": "P.05", "title": "How long we keep it", "body": "Enquiry records are kept for [[CLIENT TO CONFIRM]] years, or as required for contracts and quality records under ISO 9001." },
+        { "id": "p06", "nav": "06  Your rights", "code": "P.06", "title": "Your rights", "body": "You can ask to see, correct or delete your data, or object to how we use it, under UK GDPR. Contact info@she-uk.com, or complain to the Information Commissioner’s Office (ico.org.uk)." }
+      ]
+    },
+    "notFound": {
+      "meta": {
+        "title": "Page not found",
+        "description": "This page has moved or no longer exists."
+      },
+      "eyebrow": "Error 404",
+      "title": "This page has moved or no longer exists",
+      "lede": "The link may be out of date. Try one of the pages below, or ask our engineering team.",
+      "kicker": "Popular pages",
+      "heading": "Where to next",
+      "columns": ["Code", "Title", "Summary", "Action"],
+      "rows": [
+        { "code": "01", "title": "Heat exchanger products", "summary": "Air cooled, shell and tube, industrial, bearing, seal and automotive coolers.", "action": "View products", "href": "/products/" },
+        { "code": "02", "title": "Refurbishment", "summary": "Shutdown repairs, root cause analysis and modernisation in Lincoln.", "action": "View service", "href": "/refurbishment/" }
+      ]
+    },
+    "download": {
+      "meta": {
+        "title": "Document",
+        "description": "This document has not been supplied yet."
+      }
+    }
+  }
+}
