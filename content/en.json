@@ -301,7 +301,7 @@
           "index": "Bearing coolers",
           "title": "Bearing coolers",
           "deck": "A design service to create a cooler for your thermal duty and installation, in CS, SS, duplex SS, copper, CuNi, brass or aluminium. Plain inserted tube, twisted or coiled finned tube, or multiple coils.",
-          "image": "/images/bearing-coolers.webp",
+          "image": "/images/turbo-machinery.webp",
           "alt": "Bearing coolers",
           "caption": "Fig. 4: Bearing coolers · REF P.04",
           "chips": ["Bespoke"],
@@ -316,7 +316,7 @@
           "index": "Turbo machinery cooling",
           "title": "Turbo machinery cooling",
           "deck": "Project-specific design solutions for gas turbine, pump and compressor packages.",
-          "image": "/images/turbo-machinery.webp",
+          "image": "/images/bearing-coolers.webp",
           "alt": "Turbo machinery cooling",
           "caption": "Fig. 5: Turbo machinery cooling · REF P.05",
           "chips": ["Gas turbine", "Compressor"],
@@ -475,8 +475,8 @@
         "Supplied straight or bent, end formed or plain tube"
       ],
       "photos": [
-        { "image": "/images/automotive-coolers.webp", "alt": "Automotive cooler assembly" },
         { "image": "/images/automotive-spec-2.webp", "alt": "Wire fin tube detail" },
+        { "image": "/images/automotive-coolers.webp", "alt": "Automotive cooler assembly" },
         { "image": "/images/automotive-spec-4.webp", "alt": "Formed automotive cooler tube" }
       ]
     },
