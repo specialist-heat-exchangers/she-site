@@ -171,13 +171,15 @@ export function Bullets({ items, plain = false, split = false }: { items: string
 
 export function DarkCards({
   items,
+  variant,
 }: {
   items: { code: string; title: string; body: string }[];
+  variant?: "sector" | "cap";
 }) {
   return (
     <div className={`dark-cards cols-${Math.min(items.length, 5)}`}>
       {items.map((item) => (
-        <article key={item.code} className="dark-card">
+        <article key={item.code} className={variant ? `dark-card ${variant}` : "dark-card"}>
           <p className="code">{item.code}</p>
           <h3>{item.title}</h3>
           <p>{item.body}</p>

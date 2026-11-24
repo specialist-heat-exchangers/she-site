@@ -4,7 +4,6 @@ import Link from "next/link";
 import { useEffect, useId, useRef, useState } from "react";
 import { usePathname } from "next/navigation";
 import { asset } from "@/lib/config";
-import { Flag } from "./Flags";
 import { Rich } from "./ui";
 import {
   equivalentPath,
@@ -91,13 +90,14 @@ function Header({ locale }: { locale: Locale }) {
         <div className="header-tools">
           <details className="lang" ref={detailsRef}>
             <summary aria-label={site.ui.language}>
-              <span>{locale === "de" ? site.ui.german : site.ui.english}</span>
-              <Flag country={locale === "de" ? "de" : "gb"} />
-              <span className="chev" aria-hidden="true" />
+              <span className="lang-code">{locale.toUpperCase()}</span>
+              <svg className="chev" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true">
+                <path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" strokeWidth="1.5" />
+              </svg>
             </summary>
             <div className="lang-menu" role="list">
-              <LocaleLink locale="en" current={locale} href={withSearch(equivalentPath(pathname, "en"), search)} label={site.ui.english} country="gb" />
-              <LocaleLink locale="de" current={locale} href={withSearch(equivalentPath(pathname, "de"), search)} label={site.ui.german} country="de" />
+              <LocaleLink locale="en" current={locale} href={withSearch(equivalentPath(pathname, "en"), search)} label={site.ui.english} />
+              <LocaleLink locale="de" current={locale} href={withSearch(equivalentPath(pathname, "de"), search)} label={site.ui.german} />
             </div>
           </details>
           <Link className="btn quote-desktop" href={localePath(locale, "/contact/")}>
@@ -137,18 +137,16 @@ function LocaleLink({
   current,
   href,
   label,
-  country,
 }: {
   locale: Locale;
   current: Locale;
   href: string;
   label: string;
-  country: "gb" | "de";
 }) {
   return (
     <Link href={href} hrefLang={locale} lang={locale} aria-current={current === locale ? "true" : undefined} role="listitem">
+      <span className="lang-code">{locale.toUpperCase()}</span>
       <span>{label}</span>
-      <Flag country={country} />
     </Link>
   );
 }

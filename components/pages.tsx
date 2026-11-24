@@ -11,7 +11,7 @@ export function HomeView({ locale }: { locale: Locale }) {
   return (
     <>
       <section className="hero">
-        <img className="hero-ghost" src={asset("/images/hero-air-cooled.webp")} alt="" />
+        <img className="hero-ghost" src={asset("/images/hero-ghost.webp")} alt="" />
         <div className="inner hero-grid">
           <div className="hero-copy">
             <p className="eyebrow">{page.eyebrow}</p>
@@ -61,7 +61,7 @@ export function HomeView({ locale }: { locale: Locale }) {
           <SectionHead kicker={page.companyKicker} title={page.companyTitle} deck={page.companyDeck} />
           <div className="stats">
             {page.figures.map((figure) => (
-              <div key={figure.label} className="stat">
+              <div key={figure.label} className={/\d/.test(figure.value) ? "stat stat-num" : "stat"}>
                 <strong>{figure.value}</strong>
                 <span>{figure.label}</span>
               </div>
@@ -69,7 +69,7 @@ export function HomeView({ locale }: { locale: Locale }) {
           </div>
         </div>
       </section>
-      <section className="band tight-top">
+      <section className="band">
         <div className="inner">
           <SectionHead kicker={page.productsKicker} title={page.productsTitle} deck={page.productsDeck} />
           <div className="cards-4">
@@ -91,13 +91,13 @@ export function HomeView({ locale }: { locale: Locale }) {
       <section className="band band-dark">
         <div className="inner">
           <SectionHead kicker={page.sectorsKicker} title={page.sectorsTitle} deck={page.sectorsDeck} />
-          <DarkCards items={page.sectors} />
+          <DarkCards items={page.sectors} variant="sector" />
         </div>
       </section>
       <section className="band band-paper">
         <div className="inner">
           <SectionHead kicker={page.capKicker} title={page.capTitle} />
-          <DarkCards items={page.capabilities} />
+          <DarkCards items={page.capabilities} variant="cap" />
         </div>
       </section>
       <section className="band">
@@ -197,7 +197,7 @@ export function AftermarketView({ locale }: { locale: Locale }) {
       <section className="band">
         <div className="inner">
           <SectionHead kicker={page.sparesKicker} title={page.sparesTitle} />
-          <div className="split align-center">
+          <div className="split">
             <Plate src={page.sparesImage} alt={page.sparesAlt} />
             <div>
               <Bullets items={page.spares} />
@@ -364,7 +364,7 @@ export function CompanyView({ locale }: { locale: Locale }) {
     <>
       <PageHero locale={locale} crumb={page.crumb} title={page.title} lede={page.lede} />
       <section className="band">
-        <div className="inner split align-center">
+        <div className="inner split">
           <div className="stack">
             {page.paragraphs.map((paragraph) => (
               <p key={paragraph.slice(0, 32)}>{paragraph}</p>

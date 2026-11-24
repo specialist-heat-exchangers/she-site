@@ -301,7 +301,7 @@
           "index": "Lagerkühler",
           "title": "Lagerkühler",
           "deck": "Auslegungsservice für einen Kühler passend zu Ihrer Wärmeleistung und Einbausituation, in CS, SS, Duplex-SS, Kupfer, CuNi, Messing oder Aluminium. Glattes Einsatzrohr, gedrilltes oder gewendeltes Rippenrohr oder mehrere Rohrschlangen.",
-          "image": "/images/bearing-coolers.webp",
+          "image": "/images/turbo-machinery.webp",
           "alt": "Lagerkühler",
           "caption": "Abb. 4: Lagerkühler · REF P.04",
           "chips": ["Sonderbau"],
@@ -316,7 +316,7 @@
           "index": "Turbomaschinenkühlung",
           "title": "Kühlung für Turbomaschinen",
           "deck": "Projektspezifische Auslegungen für Gasturbinen-, Pumpen- und Verdichterpakete.",
-          "image": "/images/turbo-machinery.webp",
+          "image": "/images/bearing-coolers.webp",
           "alt": "Kühlung für Turbomaschinen",
           "caption": "Abb. 5: Kühlung für Turbomaschinen · REF P.05",
           "chips": ["Gasturbine", "Verdichter"],
@@ -475,8 +475,8 @@
         "Gerade oder gebogen, endenumgeformt oder als Glattrohr"
       ],
       "photos": [
-        { "image": "/images/automotive-coolers.webp", "alt": "Baugruppe eines Fahrzeugkühlers" },
         { "image": "/images/automotive-spec-2.webp", "alt": "Detail eines drahtberippten Rohrs" },
+        { "image": "/images/automotive-coolers.webp", "alt": "Baugruppe eines Fahrzeugkühlers" },
         { "image": "/images/automotive-spec-4.webp", "alt": "Umgeformtes Fahrzeugkühlerrohr" }
       ]
     },
