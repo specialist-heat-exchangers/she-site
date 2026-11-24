@@ -110,19 +110,24 @@ function Header({ locale }: { locale: Locale }) {
             aria-controls={menuId}
             onClick={() => setOpen((value) => !value)}
           >
-            <span className="sr-only">{open ? site.ui.close : site.ui.menu}</span>
-            <span className="burger" aria-hidden="true" />
+            <span className="menu-label">{open ? site.ui.close : site.ui.menu}</span>
+            <span className={open ? "burger close" : "burger"} aria-hidden="true" />
           </button>
         </div>
         <div id={menuId} className={open ? "mobile-panel open" : "mobile-panel"} hidden={!open}>
           {site.nav.map((item) => (
-            <Link key={item.href} href={localePath(locale, item.href)} onClick={() => setOpen(false)}>
-              {item.label}
+            <Link key={item.href} className="mobile-link" href={localePath(locale, item.href)} onClick={() => setOpen(false)}>
+              {item.label} <span aria-hidden="true">→</span>
             </Link>
           ))}
           <Link className="btn" href={localePath(locale, "/contact/")} onClick={() => setOpen(false)}>
             {site.ui.requestQuote} <span aria-hidden="true">→</span>
           </Link>
+          <div className="mobile-lang">
+            <span>{site.ui.language}:</span>
+            <Link href={withSearch(equivalentPath(pathname, "en"), search)} hrefLang="en" aria-current={locale === "en" ? "true" : undefined} onClick={() => setOpen(false)}>EN</Link>
+            <Link href={withSearch(equivalentPath(pathname, "de"), search)} hrefLang="de" aria-current={locale === "de" ? "true" : undefined} onClick={() => setOpen(false)}>DE</Link>
+          </div>
         </div>
         <span className="sr-only">
           {site.ui.language}: {locale === "de" ? site.ui.german : site.ui.english}. {switchHref}
